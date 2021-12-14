@@ -1,0 +1,175 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooTokenEMV Payment Gateway\n"
+"POT-Creation-Date: 2021-12-14 13:10-0300\n"
+"PO-Revision-Date: 2018-10-26 09:38+0800\n"
+"Last-Translator: Gabriel Estrada <netgabo@gmail.com>\n"
+"Language-Team: Gabriel Estrada <netgabo@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wootoken-payment-gateway.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wootoken-payment-gateway.php:41
+msgid "Configuración"
+msgstr ""
+
+#: wootoken-payment-gateway.php:94
+msgid "Hash:"
+msgstr ""
+
+#: wootoken-payment-gateway.php:123
+msgid "Transacción:"
+msgstr ""
+
+#: wootoken-payment-gateway.php:153
+msgid "WooToken EVM Payment "
+msgstr ""
+
+#: wootoken-payment-gateway.php:157
+msgid "Pagar con Token"
+msgstr ""
+
+#: wootoken-payment-gateway.php:161
+msgid ""
+"Si desea utilizar esta pasarela de pago, le sugerimos que lea <a href=\"https://"
+"solucionesenblockchain.com/wootokenevm-payment-gateway\">Nuestra guía </a> before."
+msgstr ""
+
+#: wootoken-payment-gateway.php:195
+msgid "Habilitar/Deshabilitar"
+msgstr ""
+
+#: wootoken-payment-gateway.php:196
+msgid "Habilitar pago con Token Personalizado"
+msgstr ""
+
+#: wootoken-payment-gateway.php:201
+msgid "Nombre del Token"
+msgstr ""
+
+#: wootoken-payment-gateway.php:203
+msgid "El nombre del token se mostrará en la página de pago"
+msgstr ""
+
+#: wootoken-payment-gateway.php:208
+msgid "Descripción"
+msgstr ""
+
+#: wootoken-payment-gateway.php:210
+msgid "La descripción se mostrará en la página de pago"
+msgstr ""
+
+#: wootoken-payment-gateway.php:211
+msgid "Asegúrese de que ya ha instalado Metamask y habilítelo."
+msgstr ""
+
+#: wootoken-payment-gateway.php:214
+msgid "Dirección URL del Icono personalizado de tu token"
+msgstr ""
+
+#: wootoken-payment-gateway.php:217
+msgid "Altura de la imagen: 100px"
+msgstr ""
+
+#: wootoken-payment-gateway.php:220
+msgid "Dirección de billetera"
+msgstr ""
+
+#: wootoken-payment-gateway.php:222
+msgid "El token se transferirá a esta billetera"
+msgstr ""
+
+#: wootoken-payment-gateway.php:225
+msgid "URL del explorador de bloques"
+msgstr ""
+
+#: wootoken-payment-gateway.php:227
+msgid "Coloque el explorardo de bloques de la blockchain Ej.: https://ropsten.etherscan.io"
+msgstr ""
+
+#: wootoken-payment-gateway.php:230
+msgid "Contrato ABI"
+msgstr ""
+
+#: wootoken-payment-gateway.php:232
+msgid "Puede obtener el Contrato ABI desde su explorador de contrator ejemplo: Etherscan.io"
+msgstr ""
+
+#: wootoken-payment-gateway.php:235
+msgid "Dirección del contrato"
+msgstr ""
+
+#: wootoken-payment-gateway.php:239
+msgid "Aviso de gas"
+msgstr ""
+
+#: wootoken-payment-gateway.php:241
+msgid "Establezca un precio de GAS más alto para acelerar su transacción."
+msgstr ""
+
+#: wootoken-payment-gateway.php:242
+msgid "Dígale a su Cliente que fijó un alto precio del GAS para acelerar la transacción."
+msgstr ""
+
+#: wootoken-payment-gateway.php:285
+msgid "Ordern creada, esperando comprobación de bloques"
+msgstr ""
+
+#: wootoken-payment-gateway.php:289
+msgid "Espere el pago..."
+msgstr ""
+
+#: wootoken-payment-gateway.php:312
+#, php-format
+msgid ""
+"<strong>%s</strong>WooToken ERC20: SSL no está habilitado y WooCommerce no está forzando "
+"el certificado SSL en su página de pago. Asegúrese de tener un certificado SSL válido y "
+"de que está <a href=\"%s\">obligando a proteger las páginas de pago.</a>"
+msgstr ""
+
+#: wootoken-payment-gateway.php:337
+msgid "<h2 class=\"h2thanks\">Utilice Metamask y Pague este pedido</h2>"
+msgstr ""
+
+#: wootoken-payment-gateway.php:338
+msgid ""
+"<br>Haga clic en el botón de abajo, pagar este pedido.</br><br><div style= \"color: "
+"#ff2e00;\"><b>Asegúsere de estar en la blockchain correcta: "
+msgstr ""
+
+#: wootoken-payment-gateway.php:341
+msgid "Abrir Metamask"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooToken EVM Payment Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://solucionesenblockchain.com/wootokenevm-payment-gateway"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Este complemento agregará la pasarela de pago para tokens compatibles con Ethereum, "
+"Binance, Matic, Velas, Solana para realizar transacciones descentralizadas."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Gabriel Estrada | Soluciones en Blockchain."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://solucionesenblockchain.com/"
+msgstr ""
