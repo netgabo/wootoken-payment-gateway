@@ -247,7 +247,7 @@ function solblock_erc20_init_gateway_class() {
 				'ad1' => array(
 					'title' => 'Plugin completamente gratuito',
 					'type' => 'title',
-					'description' => 'Existe gracias a los aprotes de los programadores la código y los donativos que puedas hacer.',
+					'description' => 'Existe gracias a los aprotes de los programadores la código y los donativos que puedas hacer. <br> Si desdeas ayudar con un pequeño donativo sería de mucha ayuda para continuar desarrollando el proyecto.</br><br>Si eres desarrollador podrías colaborar añadiendo código que ayude a mejorar la experiencia de uso del mismo.</br><br>También puedes enviar tus propios tokens :)</br><br>BITCOIN: 1AaSuCNtxuBnab5aCP217acMC1eSMmAvgM</br><br>ETH: 0x97103971cF63fBC527B4Eb3FC2ffEBDb832cFe62</br><br>Binance BNB/BSC: 0x3c745E8A305548f5E974251a8086AA0B4E88A320</br>  ',
 				),
 				'ad2' => array(
 					'title' => 'Dirección de contacto',
